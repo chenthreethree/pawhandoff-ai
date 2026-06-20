@@ -377,4 +377,4 @@ with tab_qr:
         st.code(payload, language=None)
 
 st.divider()
-st.caption("PawHandoff AI · 轻量机会验证 Demo｜流程标准化、任务打卡与照片留痕旨在降低沟通和信任风险，不构成安全担保或医疗建议。")
+st.caption("PawHandoff AI · 产品原型｜流程标准化、任务打卡与照片留痕旨在降低沟通和信任风险，不构成安全担保或医疗建议。")
